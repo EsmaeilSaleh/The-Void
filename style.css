@@ -1,3 +1,49 @@
 body {
         background: pink;
+        max-width: 650px;
+        margin: 0 auto;
+}
+
+header {
+        background: #fc6c85;
+        position: sticky;
+        k
+}
+
+nav {
+        text-align: center;
+}
+
+h1 {
+        text-align: center;
+}
+a {
+        text-decoration: none;
+}
+
+a:focus, a:visited {
+        color: #696969;
+}
+
+a:hover, a:active {
+        color: red;
+}
+
+li {
+        display: inline-block;
+        margin: 16px;
+}
+
+ul {
+        list-style: none;
+}
+
+
+
+footer {
+        position: absolute;
+        bottom: 0px;
+        margin: 12px 12px;
+        width: 650px;
+        text-align: center;
 }
