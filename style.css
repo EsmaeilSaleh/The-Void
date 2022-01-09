@@ -16,13 +16,13 @@ body {
 }
 
 .main-container {
-  background: whitesmoke;
+  background: #fff;
   height: 100vh;
   flex:1;
 }
 
 header {
-  background: #ffd1dc;
+  background: #eee;
   margin-top: 0;
 }
 
@@ -70,7 +70,7 @@ ul {
 }
 
 footer {
-  background: pink;
+  background: #fff;
   text-align: center;
   color: #757575;
 }
